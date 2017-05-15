@@ -1,0 +1,560 @@
+[
+  {
+    "_id": "58e775cf03d2b2f3035e6320",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6314",
+    "body": "<ul><li>The Data Protection Act protects everyone&rsquo;s personal data, including yours. It provides rules on how data should be used and what the rights of the individuals are.</li><li>We need employee and customer information in order to run our business. We are trusted to look after this information and we all have a responsibility to protect the personal data of our employees and customers.</li><li>Many large companies have been hacked, had passwords&nbsp; stolen and&nbsp; personal compromised data. It could happen to Pret.</li><li>We work really hard on keeping our systems safe, but we also need you as the &ldquo;user&rdquo; of the data to keep the data that you handle and process safe and secure.</li><li>Change is coming and soon there will be even bigger obligations on how personal data is kept.</li><li>The purpose of this training is to give you an understanding and awareness of what personal data is and what you should do to keep it safe.&nbsp;</li></ul>",
+    "displayTitle": "",
+    "title": "Data Protection 1998",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcomplistnarrow",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6321",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6315",
+    "body": "<p><strong>Who has a responsibility to keep personal data secure?&nbsp;</strong></p><p>Select the correct answer from the options below and click Submit</p>",
+    "displayTitle": "Question",
+    "title": "Question",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Just the IT department?",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your manager?",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All employees and contractors?",
+        "_shouldBeSelected": true,
+        "feedback": "We all have a responsibility to keep data secure"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct!&nbsp;We all have a responsibility to keep data secure</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6322",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6317",
+    "body": "",
+    "displayTitle": "",
+    "title": "think check secure",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "stacklist",
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Handling our employee and customer information with care and respect is critical to protecting Pret&rsquo;s reputation</p>"
+      },
+      {
+        "body": "<p>Mishandling, losing or sharing this information could lead to Pret being issued with a large fine and bad press</p>"
+      },
+      {
+        "body": "<div>All information you work with has value:</div><ul><li>THINK before you take it out of the office</li><li>THINK before you leave it unattended, send or forward it</li><li>CHECK it is accurate</li><li>DISCLOSE of it carefully</li><li>SECURE it</li></ul>"
+      },
+      {
+        "body": "<div>If in doubt, ask yourself how you would like your data to be handled?</div>"
+      }
+    ],
+    "_button": {
+      "startText": "Start",
+      "continueText": "Next"
+    }
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6323",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6316",
+    "body": "<ul><li>Name</li><li>Date of birth</li><li>Address</li><li>National Insurance Number</li><li>Employee Number</li><li>Bank Details</li><li>Right to Work documentation</li><li>Return to Work interview form</li><li>Disciplinary Minutes</li><li>Performance Reviews</li><li>Fit Notes</li><li>Credit Card Details</li><li>CCTV</li><li>Customer comments card</li><li>Payslips</li></ul>",
+    "displayTitle": "There are many examples of personal data, including:",
+    "title": "There are many examples of personal data, including:",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcomplist",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6324",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6316",
+    "body": "<ul><li>myPret</li><li>HR (blue) file</li><li>Emails/Letters</li><li>Application Form</li><li>Medical documentation</li><li>OJE Documents</li><li>CVs</li><li>Letters of complaints</li><li>Customer service records</li><li>Investigation reports</li><li>CCTV</li><li>1:1 notes</li><li>POD Records<br /><br />&nbsp;</li></ul>",
+    "displayTitle": "Where can personal data be found?",
+    "title": "Where can personal data be found?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcomplist",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6325",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6318",
+    "body": "<p><strong>Which of these items is not/or does not contain personal data?</strong></p><p>Select the correct option and click submit</p>",
+    "displayTitle": "Question",
+    "title": "Question",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "gmcq",
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/896268e97f2f6c31a0fd7626444615355d80203c.jpg",
+          "small": "",
+          "alt": ""
+        },
+        "text": "Contract of employment",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/de1b910fb87a9a5e65706df218fec694914cc4fe.jpg",
+          "small": "",
+          "alt": ""
+        },
+        "text": "Public post on Social Media",
+        "_shouldBeSelected": true,
+        "feedback": "Correct! This does not contain personal data, as the user has openly shared the information"
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/44f4dbd796f391b3c2985eaaf4cfc78001515957.jpg",
+          "small": "",
+          "alt": ""
+        },
+        "text": "CV",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Correct! This does not contain personal data, as the user has openly shared the information</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect feedback for the final attempt</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show Feedback",
+        "ariaLabel": "Show Feedback"
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6326",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e6319",
+    "body": "",
+    "displayTitle": "",
+    "title": "Request for information",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "narrative",
+    "instruction": "If you are approached and asked to give information about an employee or customer you should:",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Not give any information on the phone &ndash; you do not know who they are!</p>",
+        "_graphic": {
+          "src": "course/en/assets/4760102007b82866eb196c99f604411daeb92c9c.jpg",
+          "alt": ""
+        },
+        "strapline": "Not give any information on the phone – you do not know who they are!"
+      },
+      {
+        "title": "",
+        "body": "<p>Ask that the request be put in writing</p>",
+        "_graphic": {
+          "src": "course/en/assets/056f4001dbba4a3097071633e1fcf8f4f643bf85.jpg",
+          "alt": ""
+        },
+        "strapline": "Ask that the request be put in writing"
+      },
+      {
+        "title": "",
+        "body": "<p>Refer this to your Manager or Ops Manager</p>",
+        "_graphic": {
+          "src": "course/en/assets/6a1007b133f1515c570e4c16e920bed4e21119c2.jpg",
+          "alt": ""
+        },
+        "strapline": "Refer this to your Manager or Ops Manager"
+      }
+    ]
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6327",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631a",
+    "body": "<div>If you use your mobile phone to access your Pret mailbox then you should ensure that you:<br />&nbsp;</div><ul><li>Have a secure password on your device</li><li>Change it regularly</li><li>Keep your device secure at all times</li><li>Log a call on the helpdesk to report it immediately to IT if is misplaced or stolen</li></ul>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcomplist",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6328",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631a",
+    "body": "<div>If your company issued phone, laptop or iPad is misplaced, lost or stolen then you must log a call on the helpdesk and report it immediately to IT and your line manager.&nbsp;<br />&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e6329",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631b",
+    "body": "<ul><li>You should only print what is necessary and you should ensure that any personal data or confidential information is destroyed securely.</li><li>At 75B &ndash; you should use the confidential waste bins provided.</li><li>In shops &ndash; we are looking at providing shredders for shops. You will be updated when they are available.&nbsp;</li></ul>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcomplist",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e632a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631c",
+    "body": "<p><strong>You receive a call from a third party asking if an employee works at your shop, or in your office, what should you do?</strong></p><p>Select the correct answer and click Submit</p>",
+    "displayTitle": "Question",
+    "title": "Question",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Be helpful and give the information requested",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Explain that you cannot give that information over the phone and ask that they submit the request in writing",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>You should not give personal information over the phone</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e632b",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631d",
+    "body": "<ul><li>All Visitors &nbsp;to 75B must sign into reception</li><li>Visitors should be accompanied at all times, whether at 75B or in a shop</li><li>&nbsp;If you invite a third party or supplier to visit or work from 75B then they are your responsibility and you should ensure that they are not privy to confidential conversations or information</li></ul>",
+    "displayTitle": "",
+    "title": "Visitors",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcomplist",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e632c",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631e",
+    "body": "",
+    "displayTitle": "",
+    "title": "What can I do to keep data safe?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "accordion",
+    "instruction": "There are some simple steps that we can all take to keep data secure:",
+    "_items": [
+      {
+        "title": "Desks",
+        "body": "<p>Don&rsquo;t leave confidential information unattended on your desk or in your office.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Computers, Laptops, Tablets and Mobiles",
+        "body": "<ul><li>Keep your passwords secure. Don&rsquo;t share them with anyone.&nbsp;</li><li>Be creative with your password, use random words and special characters. Don&rsquo;t use your pet&rsquo;s name!</li><li>Use a secure code on your mobile phone</li><li>Lock your computer when you are away from your office/desk</li><li>Don&rsquo;t save personal or confidential information locally on your laptop /desktop&ndash; save it to the network or upload to myPret and delete</li><li>Don&rsquo;t auto save your myPret password on the shop computer!</li><li>If you have a laptop then you must ensure that you keep it safe. Do not leave it unattended in public.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Email & Systems",
+        "body": "<ul><li>Always check email addresses, contents and attachments before you click &ldquo;send&rdquo; on an email</li><li>Don&rsquo;t open spam emails &nbsp;- big risk of viruses!</li><li>Only use Pret authorised IT systems</li><li>Don&rsquo;t use a shared email address to share confidential documents.</li><li>Don&#39;t save on shop or any other public computer</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Files & Documents",
+        "body": "<ul><li>Keep personnel files locked in a cabinet (or safe) and the key should be with the GM at all times</li><li>Only print what is necessary</li><li>Dispose of personal information and confidential information carefully and securely</li><li>If you export information from the system then it should be password protected</li><li>Keep secure any documents that you take out of your shop or 75B</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Telephone calls",
+        "body": "<ul><li>Don&rsquo;t discuss &nbsp;confidential information about Pret or the people employed by Pret in public areas such as the shop floor, on a train etc.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "General",
+        "body": "<ul><li>If you view personal data or company information in public then you should ensure that &nbsp;the information cannot be viewed by members of the public.</li><li>When displaying customer comment cards, or any other material that has contact or personal info, cut out and destroy the contact info safely</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58e775cf03d2b2f3035e632d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "58e775cf03d2b2f3035e631f",
+    "body": "",
+    "displayTitle": "Question",
+    "title": "Question",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "bgcompblue",
+    "_component": "mcq",
+    "instruction": "The best way to protect information is to:",
+    "_items": [
+      {
+        "text": "Use only provided and protected devices to share necessary information with people we know and trust",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Whisper on the phone whilst on the train home",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Allow access to the system to the team so everyone can access information just in case you are not around and they need it?",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
